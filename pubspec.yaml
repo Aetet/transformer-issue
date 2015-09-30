@@ -1,0 +1,13 @@
+name: transformer_example
+
+dependencies:
+  barback: any
+  markdown: any
+  dom_stub: any
+  browser: any
+  html: any
+
+transformers:
+- dom_stub
+- transformer_example
+- $dart2js

@@ -1,0 +1,9 @@
+.buildlog
+.idea
+.pub/
+.settings/
+build/
+packages
+/.packages
+pubspec.lock
+/bin/pub.dart.snapshot
